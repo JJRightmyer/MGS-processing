@@ -1,0 +1,14 @@
+	GeneID	GOID	GOTerms
+159	MG_394	GO:0006545	glycine biosynthetic process
+160	MG_394	GO:0035999	tetrahydrofolate interconversion
+174	MG_345	GO:0006428	isoleucyl-tRNA aminoacylation
+230	MG_182	GO:0001522	pseudouridine synthesis
+231	MG_182	GO:0008033	tRNA processing
+234	MG_051	GO:0006206	pyrimidine nucleobase metabolic process
+235	MG_051	GO:0006213	pyrimidine nucleoside metabolic process
+260	MG_372	GO:0009228	thiamine biosynthetic process
+261	MG_372	GO:0009229	thiamine diphosphate biosynthetic process
+262	MG_372	GO:0034227	tRNA thio-modification
+318	MG_426	GO:0006412	translation
+332	MG_291	GO:0006810	transport
+336	MG_295	GO:0008033	tRNA processing

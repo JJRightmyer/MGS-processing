@@ -1,0 +1,36 @@
+	GeneID	GOID	GOTerms
+36	MG_396	GO:0005975	carbohydrate metabolic process
+37	MG_396	GO:0009052	"pentose-phosphate shunt	 non-oxidative branch "
+85	MG_034	GO:0071897	DNA biosynthetic process
+108	MG_031	GO:0006260	DNA replication
+111	MG_315	GO:0006260	DNA replication
+112	MG_419	GO:0006260	DNA replication
+129	MG_517	GO:0009246	enterobacterial common antigen biosynthetic process
+130	MG_517	GO:0006071	glycerol metabolic process
+131	MG_517	GO:0046467	membrane lipid biosynthetic process
+137	MG_368	GO:0006633	fatty acid biosynthetic process
+138	MG_368	GO:0008654	phospholipid biosynthetic process
+187	MG_037	GO:0009435	NAD biosynthetic process
+189	MG_128	GO:0019674	NAD metabolic process
+190	MG_128	GO:0006741	NADP biosynthetic process
+203	MG_041	GO:0009401	phosphoenolpyruvate-dependent sugar phosphotransferase system
+204	MG_041	GO:0006355	"regulation of transcription	 DNA-templated "
+205	MG_041	GO:0006351	"transcription	 DNA-templated "
+207	MG_069	GO:0009401	phosphoenolpyruvate-dependent sugar phosphotransferase system
+208	MG_429	GO:0009401	phosphoenolpyruvate-dependent sugar phosphotransferase system
+209	MG_323	GO:0006813	potassium ion transport
+234	MG_051	GO:0006206	pyrimidine nucleobase metabolic process
+235	MG_051	GO:0006213	pyrimidine nucleoside metabolic process
+238	MG_022	GO:0006355	"regulation of transcription	 DNA-templated "
+239	MG_022	GO:0006351	"transcription	 DNA-templated "
+244	MG_098	GO:0006450	regulation of translational fidelity
+260	MG_372	GO:0009228	thiamine biosynthetic process
+261	MG_372	GO:0009229	thiamine diphosphate biosynthetic process
+262	MG_372	GO:0034227	tRNA thio-modification
+269	MG_473	GO:0006412	translation
+277	MG_099	GO:0006412	translation
+278	MG_100	GO:0006412	translation
+306	MG_481	GO:0006412	translation
+310	MG_311	GO:0006412	translation
+327	MG_179	GO:0006810	transport
+335	MG_084	GO:0008033	tRNA processing
