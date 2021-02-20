@@ -1,0 +1,3 @@
+	GeneID	GOID	GOTerms
+331	MG_289	GO:0006810	transport
+332	MG_291	GO:0006810	transport
